@@ -2,7 +2,7 @@
 
 🩵 WELL COME TO MY PROFILE 🧡
 
-![mp4](https://github.com/NEHA-GIRL/nehu/assets/171222298/e8a32e8a-6789-4cf5-a4f5-f4d9e6a1600e)
+https://github.com/NEHA-GIRL/nehu/assets/171222298/e8a32e8a-6789-4cf5-a4f5-f4d9e6a1600e
 
 
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=61DAFB" alt="ts" title="Typescript" height="25" />
