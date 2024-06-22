@@ -1,7 +1,6 @@
  </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=HELLO+WIRLD%2C+I'M+NEHA-GIRL+HERE+😇;PLZ+FOLLOW+MY+GITHUB+🙏; THANKS+MY+ALL+FRIENDS+🤙+🥰; FROM+INDIA
-+support+pabo+to)](https://git.io/typing-svg)
+(https://git.io/typing-svg)
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=61DAFB" alt="ts" title="Typescript" height="25" />
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
  
@@ -14,8 +13,6 @@
 </h3>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=ENJOY+TO+MY+TOOLS;+ALL+FRIEND S)](https://git.io/typing-svg)
  
 </p>
  
