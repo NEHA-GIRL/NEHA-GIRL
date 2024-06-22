@@ -1,6 +1,6 @@
 ![logo](https://github.com/NEHA-GIRL/NEHA/blob/main/1719029793304.jpg)
 
-![mp4](https://github.com/NEHA-GIRL/NEHA/issues/1#issue-2367659906)
+![video](https://github.com/NEHA-GIRL/NEHA/issues/1#issue-2367659906)
 
 
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=61DAFB" alt="ts" title="Typescript" height="25" />
