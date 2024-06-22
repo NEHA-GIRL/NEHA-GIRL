@@ -1,6 +1,7 @@
  </h3>
+ <img src="
 
-(https://git.io/typing-svg)
+
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=61DAFB" alt="ts" title="Typescript" height="25" />
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
  
