@@ -1,6 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=HELLO+WORLD+I+AM;+NEHA+THAKUR+WELCOME+TO+MY+PROFILE;MY+ALL+TOOLS;FREE+)](https://git.io/typing-svg)
 
+![logo](https://github.com/NEHA-GIRL/NEHA-GIRL/blob/main/INTRO/66a21d016fdc40.69000946Processed.jpeg)
+
+
 ![logo](https://github.com/NEHA-GIRL/NEHA-GIRL/blob/main/INTRO/hacker-gif-7.gif)
 
 💌 WELL COME TO MY PROFILE 💌
