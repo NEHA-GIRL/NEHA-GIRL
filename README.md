@@ -14,7 +14,7 @@
  <img src="https://profile-counter.glitch.me/V33R-TH4KUR/count.svg" alt="Visitors">
 </p>
 
-https://user-images.githubusercontent.com/99500367/163590009-360f12d9-1dd2-466f-9313-77f479896f8a.mp4
+https://github.com/user-attachments/assets/13fe4bfc-9a02-4316-945a-117b2f5db0cb
 
 
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=61DAFB" alt="ts" title="Typescript" height="25" />
